@@ -1,7 +1,7 @@
 import { Outlet, Link, useLocation } from "react-router";
 import { Menu, X, MessageCircle, Instagram, Linkedin } from "lucide-react";
 import { useState, useEffect } from "react";
-import logoImage from "../../../images/Muskan Logo 04 - Transparent BG.png";
+import logoImage from "../../../images/MuskanLogo04-TransparentBG.png";
 
 export default function Root() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

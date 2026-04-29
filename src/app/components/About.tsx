@@ -4,16 +4,16 @@ import { Blob } from "./decorations/Blob";
 import { BotanicalLeaf } from "./decorations/BotanicalLeaf";
 import { BotanicalBranch } from "./decorations/BotanicalBranch";
 import { Rosette } from "./decorations/Rosette";
-import aboutPageTop from "../../../images/about page top.jpg";
+import aboutPageTop from "../../../images/aboutpagetop.jpg";
 import teamPhoto1 from "../../../images/Sadhan.jpg";
-import teamPhoto2 from "../../../images/aarushi 2.jpeg";
+import teamPhoto2 from "../../../images/aarushi2.jpeg";
 import teamPhoto3 from "../../../images/dhruv.jpeg";
 import teamPhoto4 from "../../../images/tanvi.jpeg";
 import teamPhoto5 from "../../../images/palak.jpeg";
-import dayPhoto1 from "../../../images/drive there 1.jpg";
-import dayPhoto2 from "../../../images/silent room 1.jpg";
-import dayPhoto3 from "../../../images/Small girl 1.jpeg";
-import dayPhoto4 from "../../../images/ride back.jpg";
+import dayPhoto1 from "../../../images/drivethere1.jpg";
+import dayPhoto2 from "../../../images/silentroom1.jpg";
+import dayPhoto3 from "../../../images/Smallgirl1.jpeg";
+import dayPhoto4 from "../../../images/rideback.jpg";
 
 export default function About() {
   return (

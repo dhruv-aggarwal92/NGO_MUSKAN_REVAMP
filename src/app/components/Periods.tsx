@@ -5,7 +5,7 @@ import { Blob } from "./decorations/Blob";
 import { BotanicalLeaf } from "./decorations/BotanicalLeaf";
 import { BotanicalBranch } from "./decorations/BotanicalBranch";
 import { Rosette } from "./decorations/Rosette";
-import p1 from "../../../images/Menstrual Health workshops/16.JPG";
+import p1 from "../../../images/MenstrualHealthWorkshops/16.JPG";
 
 export default function Periods() {
   return (

@@ -7,7 +7,7 @@ import { FloatingPetals } from "./decorations/FloatingPetals";
 import { BotanicalBranch } from "./decorations/BotanicalBranch";
 import { Rosette } from "./decorations/Rosette";
 import { GirlReceiving } from "./illustrations/GirlReceiving";
-import qrCode from "../../../images/Donation QR.png";
+import qrCode from "../../../images/DonationQR.png";
 
 function useScrollAnimation() {
 
